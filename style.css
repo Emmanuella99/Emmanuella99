@@ -1,0 +1,29 @@
+/* taille image */
+.image{
+    width: 60vh;
+    height: 60vh;
+}
+/** ajout de la police**/
+html, body{
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    text-decoration-color: #797979;
+}
+.redline{
+    background-color:rgb(209, 77, 77);
+    width: 70px;
+    height: 5px;
+    margin-top: -2%;
+    margin-left: 10vh;
+}
+.about{
+       padding-top: 5vh;
+}
+
+.dis{
+    display:flex;
+} 
+.text{
+    margin-left: 5vh;
+    width: 40%;
+}
