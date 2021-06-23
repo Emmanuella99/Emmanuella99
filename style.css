@@ -29,3 +29,14 @@ html, body{
     width: 40%;
 
 }
+.foot{
+    background-color: darkgray;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: oblique;
+    font-size: 10x;
+    height: 5vh;
+    width: 20%;
+    text-align: end;
+    margin-left: 75%;
+
+}
