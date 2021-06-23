@@ -1,3 +1,4 @@
+
 /* taille image */
 .image{
     width: 60vh;
@@ -26,4 +27,5 @@ html, body{
 .text{
     margin-left: 5vh;
     width: 40%;
+
 }
